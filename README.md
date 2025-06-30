@@ -9,7 +9,7 @@
 ### 🧑‍💻 Sobre mim
 
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas
-- 🚀 Estagiário Backend em um banco global
+- 🚀 Backend em um banco global
 - 💡 Apaixonado por resolver problemas reais com código limpo e escalável
 - 📚 Sempre estudando novas tecnologias para backend, arquitetura de software e boas práticas
 
@@ -51,8 +51,8 @@
 
 ### 📫 Como falar comigo?
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil-linkedin)  
-- Email: seu.email@email.com  
+- [LinkedIn]([https://www.linkedin.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/victor-morbeck-aa94b4173/))  
+- Email: victormorbeck212.com  
 
 > 💬 Estou aberto a oportunidades como Desenvolvedor Júnior Backend!
 
